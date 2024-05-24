@@ -4,8 +4,8 @@ public class prime {
         Scanner sc = new Scanner(System.in);
         int count = 0;
         int n = sc.nextInt();
-        for (int i= 1; i<=n;i++){
-            if(n%i==0){
+        for (int j= 1; j<=n;j++){
+            if(n%j==0){
                 count++;
             }
         }
