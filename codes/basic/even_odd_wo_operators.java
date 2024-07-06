@@ -1,3 +1,4 @@
+package basic;
 import java.util.*;
 public class even_odd_wo_operators {
     public static void main(String[] args) {
