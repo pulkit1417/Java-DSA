@@ -1,4 +1,5 @@
-package basic;
+package arrays;
+
 import java.util.*;
 
 public class rotateArray {
